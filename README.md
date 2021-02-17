@@ -2,4 +2,4 @@
 pythonw index.pyw
 
 
-## chỉ dùng được cho windows
+### chỉ dùng được cho windows
